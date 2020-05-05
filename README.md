@@ -1,6 +1,7 @@
 # ML with Phishing
 
-In this series of posts I am going to use [this dataset](https://data.mendeley.com/datasets/h3cgnj8hft/1/) to create a decision tree which (hopefully) will be able to identify a phishing website. Please, note that this dataset contains 48 features for every sample, which are **A LOT** for this task, indeed you can see that the [paper for which it was used](https://www.sciencedirect.com/science/article/pii/S0020025519300763) was about selecting the rigth features.
+Files in this repo will be used for my "Machine Learning Phishing" series on [my blog](https://andpalmier.github.io/posts/).
+I am going to use [this dataset](https://data.mendeley.com/datasets/h3cgnj8hft/1/) to create a different kinds of models which (hopefully) will be able to identify a phishing website. Please, note that this dataset contains 48 features for every sample, which are **A LOT** for this task, indeed you can see that the [paper for which it was used](https://www.sciencedirect.com/science/article/pii/S0020025519300763) was about selecting the rigth features.
 
 ## Features
 
