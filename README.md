@@ -1,13 +1,13 @@
 # ML with Phishing
 
-The files in this repo will be used for my "Machine Learning with Phishing" series on [my blog](https://andpalmier.github.io/posts/), please refer to the original blog post to have a more pleasant (dark mode included! 😈) reading experience.
+The files in this repo will be used for my "Machine Learning with Phishing" series on [my blog](https://andpalmier.com), please refer to the original blog posts to have a better understanding of this project.
 
-Please, note that the small version of the dataset contains the 10 '*baseline features*' that were selected in [this study](https://www.sciencedirect.com/science/article/pii/S0020025519300763).
+The dataset used contains the 10 '*baseline features*' that were selected in [this study](https://www.sciencedirect.com/science/article/pii/S0020025519300763).
 
 
 ## Features
 
-Here are the *baseline features* which were used in the posts.
+Here are the features used for this project:
 
 |No. | Identifier 	 		      | Value type  | Description 																						    |
 |:--:|:--------------------------------------:|:-----------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
